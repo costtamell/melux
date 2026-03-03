@@ -142,42 +142,4 @@ p {
     color: #fff;
 }
 
-/* Seção Contato */
-.contato {
-    margin-bottom: 40px;
-    background: rgba(255, 255, 255, 0.1);
-    padding: 30px;
-    border-radius: 10px;
-    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
-}
-
-.contato form {
-    display: flex;
-    flex-direction: column;
-}
-
-.contato input, .contato textarea {
-    padding: 15px;
-    margin: 10px 0;
-    border: 1px solid #e1bee7;
-    border-radius: 8px;
-    background-color: transparent;
-    color: #fff;
-    font-size: 1rem;
-}
-
-.contato button {
-    padding: 15px;
-    background-color: #6a1b9a;
-    color: #fff;
-    border: none;
-    border-radius: 8px;
-    cursor: pointer;
-    font-size: 1.2rem;
-    transition: background-color 0.3s;
-}
-
-.contato button:hover {
-    background-color: #8e24aa;
-}
 
